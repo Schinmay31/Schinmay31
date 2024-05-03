@@ -12,9 +12,9 @@ I'm Chinmay Sabnis! I'm a  **Web Developer**:iphone:, looking to solve **real-wo
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
 * Social-Media-App 😍
+* Elika Engineering
 
  ### 🌱 Currently Learning :
- *   React.js 
  * Advanced techniques in Node.js backend development :
     - Asynchronous Programming
     - Microservices Architecture
