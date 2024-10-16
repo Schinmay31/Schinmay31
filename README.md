@@ -1,25 +1,15 @@
 <!-- Greeting -->
-# Hey there! :wave::smiley:
+# Hey there! 
 
 <!--Introduction -->
-I'm Chinmay Sabnis! I'm a  **Web Developer**:iphone:, looking to solve **real-world problems**:earth_asia:.creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+I'm Chinmay Sabnis! I'm a  **Web Developer**:iphone:, looking to solve **real-world problems**:earth_asia:.creating software and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day 
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 [![Linkedin](https://img.shields.io/badge/-Chinmay31-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-sabnis-3ab528204/)
 [![Gmail](https://img.shields.io/badge/-chinmaysabnis-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sabnischinmay31@gmail.com)
 
-<!-- current status -->
-### 💼  Things that I'm currently working on: 
-* Social-Media-App 😍
-* Elika Engineering
 
- ### 🌱 Currently Learning :
- * Advanced techniques in Node.js backend development :
-    - Asynchronous Programming
-    - Microservices Architecture
-    - Middleware Chains
-    - Database Interactions
   
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="left">
